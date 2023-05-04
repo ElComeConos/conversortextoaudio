@@ -1,0 +1,45 @@
+/* Estilo do formulário */
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  label {
+    display: block;
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #fff;
+  }
+  
+  textarea {
+    width: 100%;
+    height: 200px;
+    padding: 10px;
+    border: 1px solid #666666;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    resize: none;
+  }
+  
+  button {
+    background-color: #1c0cff;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  button:hover {
+    background-color: #2414ff;
+  }
+  
+  /* Estilo do áudio */
+
+  body{
+    background-image: linear-gradient(to right, rgb(255, 240, 33), green);
+  }
